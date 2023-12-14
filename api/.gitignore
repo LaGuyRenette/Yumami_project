@@ -1,0 +1,3 @@
+# .gitignore in the api directory
+
+node_modules/
