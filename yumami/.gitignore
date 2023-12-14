@@ -1,1 +1,3 @@
-node_modules
+# .gitignore dans le dossier Yumami
+/node_modules/
+/dist/
